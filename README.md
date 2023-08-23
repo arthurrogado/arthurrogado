@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working as freelancer
+- 🌱 I’m currently learning React | NextJS
+- ✈️ I'm a Telegram bot enthusiast!
+- 📫 How to reach me: arthurrogado.t.me | arthurrogadoreis@hotmail.com
