@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 </div>
 
 ##
-- 🔭 I’m currently working as freelancer
-- 🌱 I’m currently learning React | NextJS
+- 🔭 I’m currently working at SERPRO
+- 🌱 I’m currently improving NestJS
 - ✈️ I'm a Telegram bot enthusiast!
 - 📫 How to reach me: http://arthurrogado.t.me | arthurrogadoreis@hotmail.com
 
